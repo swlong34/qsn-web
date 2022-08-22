@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <span class="info">Copyright By 石家庄铁道大学信息学院计算机科学与技术系石文龙</span>
+    <span class="info">Copyright By 石家庄铁道大学信息学院计算机科学与技术系shwlong</span>
   </div>
 </template>
 
